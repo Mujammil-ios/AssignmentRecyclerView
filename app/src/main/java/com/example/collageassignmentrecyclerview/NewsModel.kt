@@ -1,6 +1,6 @@
 package com.example.collageassignmentrecyclerview
 data class NewsModel(
-//    recyclerview Model
+//    recyclerview Model extra
 
     var title: String = "",
     var description: String = "",
